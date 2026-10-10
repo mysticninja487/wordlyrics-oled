@@ -1,0 +1,5 @@
+.pio/
+.vscode/
+*.o
+build/
+tests/host/test_core
